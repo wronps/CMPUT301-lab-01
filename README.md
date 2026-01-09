@@ -2,7 +2,7 @@
 
 ## Student Details
 
-- **Full Name:** `Yuyang`
+- **Full Name:** `Yuyang Wang`
 - **CCID:** `yuyang31`
 
 ## References and Resources
