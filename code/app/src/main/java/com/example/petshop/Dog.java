@@ -15,7 +15,7 @@ public class Dog extends Pet implements Pettable{
     }
 
     @Override
-    public Void pet() {
-        return null;
+    public void pet() {
+        return;
     }
 }
